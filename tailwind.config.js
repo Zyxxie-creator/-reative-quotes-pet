@@ -10,6 +10,10 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        coral: '#FF6F61',
+        teal: '#008080',
+        lightCoral: '#F08080',
+        darkTeal: '#004d4d',
       },
     },
   },
