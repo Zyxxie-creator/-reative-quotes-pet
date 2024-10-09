@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Gallery "creative" quotes
 
-## Getting Started
+## English
 
-First, run the development server:
+This pet project is a Quote Management Application that demonstrates the use of JWT (JSON Web Tokens) for secure user authentication and showcases basic functionalities of Next.js. Users can "efficiently" manage their favorite quotes, including features such as adding, editing, and deleting quotes.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Here's the full list of technologies used in the project:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- `react` - A JavaScript library for building user interfaces.
+- `next` - A React framework for server-side rendering and static site generation.
+- `tailwindcss` - A utility-first CSS framework for styling.
+- `heroicons` - A set of free SVG icons for your web projects.
+- `jsonwebtoken` - For secure user authentication.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Русский
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Этот pet проект представляет собой приложение для управления цитатами, которое демонстрирует использование JWT (JSON Web Tokens) для безопасной аутентификации пользователей и показывает основные функции Next.js. Пользователи могут "эффективно" управлять своими любимыми цитатами, включая функции добавления, редактирования и удаления цитат.
 
-## Learn More
+Вот полный список использованных технологий в проекте:
 
-To learn more about Next.js, take a look at the following resources:
+- `react` - Библиотека JavaScript для создания пользовательских интерфейсов.
+- `next` - Фреймворк React для серверного рендеринга и статической генерации сайтов.
+- `tailwindcss` - CSS-фреймворк с утилитарным подходом к стилям.
+- `heroicons` - Набор бесплатных SVG иконок для ваших веб-проектов.
+- `jsonwebtoken` - Для безопасной аутентификации пользователей.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contacts
+#### **Github**
+- [@Zyxxie-creator](https://github.com/Zyxxie-creator)
+##### **Telegram**
+-  [@Zyxxie](https://t.me/Zyxxie)
